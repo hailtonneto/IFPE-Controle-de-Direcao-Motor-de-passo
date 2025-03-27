@@ -14,11 +14,10 @@ Foi uma experiência enriquecedora colaborar com meus amigos neste desafio técn
 
 <br>
 
-## 🌐 Autor
+## 🌐 Autores
 
 - Hailton de Melo Lima Neto
 - Lucas Chaves Sampaio Ferrer
-- Luiz Felipe da Silva
 
 <br>
 
